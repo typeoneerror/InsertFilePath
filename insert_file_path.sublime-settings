@@ -1,0 +1,13 @@
+{
+  "ifp_relative_to_dir": "",
+  "ifp_insert_on_save": false,
+  "ifp_valid_scopes": [
+    "string",
+    "js",
+    "handlebars",
+    "css",
+    "sass",
+    "less",
+    "scss"
+  ]
+}
